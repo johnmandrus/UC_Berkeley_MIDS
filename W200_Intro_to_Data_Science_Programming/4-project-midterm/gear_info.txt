@@ -1,0 +1,7 @@
+info = {"climbing shoes": "La Sportiva Solutions! The pinnacle of rock-climbing footware technology! They may be expensive and uncomfortable, but they'll reduce your likelihood of falling on the tougher rock routes",
+"chalk": "Apply this magic power to your hands and you'll reduce your risk of falls!", 
+"helmet": "Is it uncormfortable? Probably. Does it make you look like a dweeb? Yep. Will it reduce your injury from rock fall? Absolutely!",
+"crampons": "Little metal spikes for your shoes that cost 250 bucks a pop. They probably won't give you tetanus, but they'll certainly keep you steady on ice routes. Tetanus shots sold separately.",
+"ice axes": "Overhaul your ice climbing game with better ice axes because. Is this a good substitute for skill and experience? Probably not, but at least you'll look like a pro when they find your body!", 
+"dexamethasone": "AKA Dex. This little steriod is a big hit among high-altitude climbers. Taking it will reduce your risk of altitude sickness.",
+"short rope": "A great way to ensure that if you fall while scrambling, you take your partner down with you. Together til the end amirite? A short rope is used to tie climbers together and improve safety while scrambling. It will reduce your risk of taking a bad fall."}

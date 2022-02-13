@@ -1,0 +1,47 @@
+John@DESKTOP-H95L2NL MINGW64 ~/assignments_upstream_summer20/SUBMISSIONS/week_01 (master)
+$ mkdir s1
+
+John@DESKTOP-H95L2NL MINGW64 ~/assignments_upstream_summer20/SUBMISSIONS/week_01 (master)
+$ cd s1
+
+John@DESKTOP-H95L2NL MINGW64 ~/assignments_upstream_summer20/SUBMISSIONS/week_01/s1 (master)
+$ mkdir s3
+
+John@DESKTOP-H95L2NL MINGW64 ~/assignments_upstream_summer20/SUBMISSIONS/week_01/s1 (master)
+$ cd s3
+
+John@DESKTOP-H95L2NL MINGW64 ~/assignments_upstream_summer20/SUBMISSIONS/week_01/s1/s3 (master)
+$ touch conf.txt
+
+John@DESKTOP-H95L2NL MINGW64 ~/assignments_upstream_summer20/SUBMISSIONS/week_01/s1/s3 (master)
+$ echo "I love bash scripting." >> conf.txt
+
+John@DESKTOP-H95L2NL MINGW64 ~/assignments_upstream_summer20/SUBMISSIONS/week_01/s1/s3 (master)
+$ cd ..
+
+John@DESKTOP-H95L2NL MINGW64 ~/assignments_upstream_summer20/SUBMISSIONS/week_01/s1 (master)
+$ mkdir s2
+
+John@DESKTOP-H95L2NL MINGW64 ~/assignments_upstream_summer20/SUBMISSIONS/week_01/s1 (master)
+$ cd s2
+
+John@DESKTOP-H95L2NL MINGW64 ~/assignments_upstream_summer20/SUBMISSIONS/week_01/s1/s2 (master)
+$ touch text_chunk1.txt
+
+John@DESKTOP-H95L2NL MINGW64 ~/assignments_upstream_summer20/SUBMISSIONS/week_01/s1/s2 (master)
+$ echo "A whole new world." >> text_chunk1.txt
+
+John@DESKTOP-H95L2NL MINGW64 ~/assignments_upstream_summer20/SUBMISSIONS/week_01/s1/s2 (master)
+$ echo "A new fantastic point of view." >> text_chunk1.txt
+
+John@DESKTOP-H95L2NL MINGW64 ~/assignments_upstream_summer20/SUBMISSIONS/week_01/s1/s2 (master)
+$ mkdir advanced
+
+John@DESKTOP-H95L2NL MINGW64 ~/assignments_upstream_summer20/SUBMISSIONS/week_01/s1/s2 (master)
+$ cp text_chunk1.txt advanced/text_chunk2.txt
+
+John@DESKTOP-H95L2NL MINGW64 ~/assignments_upstream_summer20/SUBMISSIONS/week_01/s1/s2 (master)
+$ cd advanced
+
+John@DESKTOP-H95L2NL MINGW64 ~/assignments_upstream_summer20/SUBMISSIONS/week_01/s1/s2/advanced (master)
+$ echo "Do you want to build a snowman?" >> text_chunk2.txt
