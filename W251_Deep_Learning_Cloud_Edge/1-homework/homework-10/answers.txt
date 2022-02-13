@@ -1,0 +1,5 @@
+What changes did you make to the original lab? Did your changes result in higher quality images?
+- I played around with the batch size and increased the training time. This resulted in images with fewer background artifacts, which I would describe as higher quality
+In your own words, how does the Discriminator improve its ability to detect fakes?
+- The discriminator improves as it receives more examples of fake images. As the discriminator improves its detection abilities, this in turn improves the generator, thus creating more challenging images for the discriminator to detect. The cycle continues.
+Share a copy of the outpt image from the last step in the notebook (can be an upload to the ISVC Portal, or a link to the file in AWS Object Store).
